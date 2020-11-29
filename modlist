@@ -1,0 +1,276 @@
+Customisation (7):
+	One Million Colours                                                 	OneMillionColours                    	1091135816 	
+	One Million Colours Plugin For WOTC                                 	OneMillionColoursPluginForWOTC       	1133948141 	
+	Empty WOTC Deco Slots for XCOM Soldiers (+ Some other empty things) 	EmptyWOTCDecoSlotsforXCOMSoldiers    	1127014384 	
+	[WOTC] Archon's Visual Diversity                                    	NewArchon                            	1786009293 	
+	[WotC] Enemy Reskinner                                              	EnemyReskinnerRedux                  	1805997042 	
+	Alien Color Variety [WOTC]                                          	AlienColorDiversity                  	2069170151 	
+	Chosen Inner Human Retexture                                        	NewChosen                            	1354554111 	
+
+Visuals (41):
+	[WOTC] Spinning Barrels for TLP Magnetic Cannon                     	TLPMagCannonAnim                     	1616467517 	
+	WOTC Suppression Visualization Fix                                  	WOTCSuppressionVisualizationFix      	1130825409 	
+	Expanded Mission Names (WotC)                                       	ExpandedWotCMissionNames             	1126743222 	
+	Ketaros 2D Package                                                  	Ketaros2DResources                   	1557951815 	
+	[WotC] Get A Rifle Grip! - Animation Fix                            	WotC_Armory_GripFix_BattleRifles     	1684031097 	
+	[WOTC] TLP Tier Replacer with Visual Upgrades                       	WOTC_TLP_Tier_Replacer               	1755459004 	
+	(WOTC+TLP) Plasma Fan Fire Fix                                      	PlasmaFanFireFix                     	1555799574 	
+	[WOTC] Mec Micro Missile Launcher Color Fix                         	[WOTC]MecLauncherColorFix            	1139662455 	
+	[WOTC] End of Mission Quotes Fix                                    	EndofMissionQuotes                   	1351708150 	
+	(WOTC) Zip Mode Combat Protocol Camera Fix                          	CombatProtocolCamera                 	1278585557 	
+	[WOTC] Facility Clearing UI Indicator Fix                           	FacilityClearingUIIndicatorFixWOTC   	1130714554 	
+	Fixed Unit Flags                                                    	FixedUnitFlahs                       	765772475  	
+	Smooth Scrolling                                                    	SmoothScrolling                      	957580056  	
+	[WOTC] Impact FX                                                    	PersistentImpacts                    	1148304893 	
+	[WotC] Armory Camera Tweak                                          	WotC_ArmoryCameraTweak               	1452844473 	
+	Animation and Sockets Supplement [WOTC]                             	A2X_AnimationSocketsSupplement       	1943613600 	
+	[WOTC] Faster Reload Animations                                     	FasterReloadAnimationsWOTC           	1140240051 	
+	Better Debug Camera (Unofficial WOTC Version)                       	WOTCDebugCamera                      	1256502654 	
+	[WOTC] [WSR] Multishot Firing Effect for the Beam Rifle             	WOTC_Multishot_Plasma_Rifle          	1948941654 	
+	[WOTC] Weapon Upgrade UI Adjustment Tool                            	WOTC_RustyWeaponUpgradeUI            	2042829719 	
+	More shells                                                         	Moreshells                           	1944884722 	
+	[WOTC] M3 Stunlancer Restoration                                    	StunlancerRestorationWotc            	1810184248 	
+	WSR Shotgun Animations                                              	NewShotgunAnimations                 	1701209115 	
+	Cannon Animation Redux                                              	CannonAnimationRedux                 	1541141667 	
+	[WOTC] Advent Flashlights                                           	[WOTC]AdventFlashlights              	1131572938 	
+	Stop Wasting My Time - WotC                                         	StopWastingMyTime                    	620600092  	
+	Wear Armour on the Avenger (for WotC)                               	SoldiersWearArmour                   	1123987633 	
+	Clean Cinematic                                                     	CleanCinematic                       	629028571  	
+	[WOTC] Cinematic Rapid Fire (and other abilities)                   	CinematicRapidFireW                  	1124794449 	
+	[WOTC] Idle Suppression                                             	IdleSuppression                      	1469163357 	
+	[WOTC] Reduced XCOM Weapon FX (v1.01)                               	ReducedPlayerWeaponFX                	2179423322 	
+	WOTC Idle Suppression LITE                                          	IdleSuppressionLite                  	2077547986 	
+	[WOTC] Vanilla Cannon Animations For TLP Cannons                    	WOTC_TLP_Cannon_Vanilla_Anim         	1584992858 	
+	[WOTC] Impact FX Lite Version                                       	PersistentImpactsLite                	1150255128 	
+	[WOTC] Gun Raise Animation                                          	WOTC_GunRaisedAnim                   	2229896578 	
+	Still Stop Wasting My Time                                          	StillDontWasteMyTime                 	1793418015 	
+	[WOTC] Holographic Scanning                                         	WOTC_NoRedUnitScans                  	2234141519 	
+	[WOTC] Avenger DeJanker                                             	NelVlesis_Icon_Overrides             	2254206296 	
+	Long War 2 Loading Screens for WOTC                                 	LongWar2LoadingScreens               	2067609919 	
+	[WOTC] Enhanced Ragdoll Physics and FX                              	[WOTC]EditedRagdollPhysicsandEffects 	1128163275 	
+	[WOTC] Restored Ragdoll Collision                                   	[WOTC]RagdollCollision               	1160169817 	
+
+QOL (75):
+	Remove Missing Mods for WotC                                        	WOTC_RemoveMissingMods               	1127050498 	
+	Yet Another F1                                                      	YetAnotherF1                         	934236622  	
+	[WotC+Classic] TacticalUI KillCounter                               	KillCounter                          	749138678  	
+	[WOTC] Extended Personnel Info                                      	ExtendedPersonnelInfo                	1458945379 	
+	Order By Rank Class - WotC                                          	OrderByRankClass_WotC                	1191649130 	
+	[WOTC] Open Squad Select at any time                                	SquadSelectAtAnyTime                 	1529472981 	
+	Disable Any Class Wotc                                              	DisableAnyClassWotc                  	1148535137 	
+	[WOTC] Global Memorial                                              	WOTCGlobalMemorial                   	1216024324 	
+	[WOTC] Stats on New Promotion Screen                                	NewPromotionStats                    	1716973380 	
+	Blackmarket Usage                                                   	BlackmarketUsage                     	648410303  	
+	(WOTC) Domination Icon                                              	XCOMDominationIcon                   	1854232612 	
+	[WOTC] Automated Loadout Manager                                    	WOTCAutomatedLoadoutSaver            	1882809714 	
+	[WOTC] Ambush Squad Select                                          	AmbushSquadSelect                    	1198909039 	
+	WOTC Show Enemies and Terrain on Mission Planning                   	WOTC_ShowEnemiesOnMissionPlanning    	1183583781 	
+	WOTC - Extended Information!                                        	WOTC_DisplayHitChance                	1183444470 	
+	[WOTC] Better Armory Item Stats                                     	ArmouryCrit                          	1489472552 	
+	Show Me The XP                                                      	XPDisplay                            	1285095591 	
+	WC_PhotoReBooth                                                     	WC_PhotoReBooth                      	1200482815 	
+	[WOTC] Force Level Display                                          	ForceLevelDisplay                    	1916761361 	
+	WC_LAByrinth                                                        	WC_LAByrinth                         	1139079133 	
+	[WotC] UI - Colored Weapon Tiers                                    	WotC_Misc_ColoredWeaponTierText      	1949328656 	
+	Remove Weapon Upgrades                                              	RemoveWeaponUpgradesWOTC             	1162274976 	
+	[WOTC] Corpse Drops Revamped                                        	CXCorpseDropsRevamped                	1641846474 	
+	WC_INFormApps                                                       	WC_INFormApps                        	1136937041 	
+	[WOTC] More Target Icons 2020                                       	WOTC_2020TargetIcons                 	2010827399 	
+	Evac Now                                                            	EvacNow                              	1306820727 	
+	No Drop-down Lists                                                  	LEBDropDownReplacement               	865667559  	
+	Show More Buff Details                                              	ShowMoreBuffDetails                  	709499969  	
+	[WOTC] Unlimited Ability Icons                                      	UnlimitedAbilityIconsWOTC            	1374808007 	
+	[WotC] Bond To Header                                               	BondToHeader                         	1397839793 	
+	[WOTC] LOS Preview Ability                                          	LOSPreviewWOTC                       	1123163799 	
+	Restored Avenger Navigation                                         	NoAvengerWASDNavigation              	822941627  	
+	View Locked Skills - Wotc                                           	ViewLockedSkillsWotc                 	1130817270 	
+	[WOTC] Detailed Soldier Lists                                       	DetailedSoldierListWOTC              	1128263618 	
+	(WOTC) UI Mod for Defense/Mobility/Psi                              	UIModificationWOTC                   	1281427768 	
+	WotC: Show Will Loss                                                	WotC_VisualizeWillEvents             	1134266810 	
+	Evac All - WotC                                                     	EvacAll_WotC                         	1126395106 	
+	[WOTC] Loot Post Mover                                              	WOTCLootPostMover                    	2043070900 	
+	[WOTC] LifetimeStats                                                	WOTCLifetimeStats                    	1128399324 	
+	[WOTC] Hours Instead of Days                                        	HoursInsteadofDaysWOTC               	1125973633 	
+	WOTC Nice Mission Debriefing                                        	WOTCNiceMissionDebriefing            	1154827808 	
+	Upcoming Events [WotC]                                              	UpcomingEvents                       	1125698656 	
+	WC_GeoscApps                                                        	WC_GeoscApps                         	1125494196 	
+	[WOTC] Cost-Based Ability Colors                                    	WOTC_CostBasedAbilityColors          	1289686596 	
+	[WOTC] Quick Soldier Info                                           	QuickSoldierInfoWOTC                 	1125117314 	
+	[WotC] Instant Loot                                                 	WOTCInstantLoot                      	1440233515 	
+	[WOTC] One squad on new Avenger defense                             	SingleDefenseSquad                   	1504056921 	
+	Tactical Armory UI                                                  	MusashisTacUI                        	1962124733 	
+	Post Process Status Effects                                         	PostProcessStatusEffects             	1290331416 	
+	WotC Enhanced AoE Preview                                           	WotCEnhancedAoEPreview               	1124333578 	
+	[WotC] Gotcha Again                                                 	WOTCGotchaAgain                      	1124288875 	
+	WotC: Color Coded Bonds                                             	WotC_ColorCodedBonds                 	1124175584 	
+	Smart Overwatch All [WotC]                                          	SmartOverwatchAll                    	1123486456 	
+	WotC: robojumper's Squad Select                                     	robojumperSquadSelect_WotC           	1122974240 	
+	[WOTC] New Promotion Screen by Default                              	NewPromotionScreenbyDefault          	1124609091 	
+	Disable Random Posters                                              	DisableRandomPosters                 	1279552846 	
+	Remove Equipment Mods                                               	RemoveMods                           	658977800  	
+	[WotC] UI - Colored Ammo Bar                                        	WotC_UI_ColoredAmmoBar               	1949300408 	
+	Automatically Color Units - WotC + Vanilla                          	AutomaticallyColorUnits              	622023580  	
+	SwappImg                                                            	SwappImg                             	694875779  	
+	WOTC Unit Selection Order                                           	WOTC_UnitSelectionOrder              	2129065433 	
+	Better Localized Text [WOTC]                                        	BetterLocalizedText                  	2101468124 	
+	WC_qUIck_FLGx                                                       	WC_qUIck_FLGx                        	2158964985 	
+	WC_qUIck_FLO                                                        	WC_qUIck_FLO                         	2127677360 	
+	qUIck_FLG                                                           	qUIck_FLG                            	656115338  	
+	[WOTC] Show All Class Counts                                        	WOTCShowAllClassCounts               	2167235854 	
+	[WOTC] Passive Icons Core Collection Edition                        	WOTCPassiveIcons_CC                  	2170324254 	
+	WC_qUIck_RCP                                                        	WC_qUIck_RCP                         	1133862047 	
+	Pause Scanning [WOTC]                                               	PauseHealWOTC                        	1154579172 	
+	Immersive Strategy Layer                                            	ImmersiveStrategyLayer               	1544760525 	
+	[WOTC] Standardised Resources Bar                                   	WOTC_StandardisedResourcesBar        	2276175904 	
+	Free Camera Rotation                                                	FreeCameraRotation                   	616359783  	
+	Enhanced action camera                                              	Moreactioncamera                     	1139448360 	
+	[WOTC] Color Your PG Tech                                           	WOTC_ColorYourTech                   	2293559450 	
+	[WOTC] Unit Flag Extended                                           	WOTCLootIndicator_Extended           	2285967646 	
+
+Strategy (2):
+	More Cities WotC                                                    	MoreCitiesWotC                       	1131405167 	
+	DLC Breakthroughs Support                                           	SPARKWeaponBreakthroughs             	1133948306 	
+
+Bug (51):
+	Defense Matrix Sabotage Fix                                         	SabotageFix                          	1135867452 	
+	[WotC] Revival Protocol Fixes                                       	RevivalProtocolFixes                 	1123037187 	
+	Missing Packages Fix + Resource                                     	Missing_FX_Package_Resource          	1124064427 	
+	(WOTC) Revival Protocol Charges Fix                                 	RevivalProtocolChargesFix            	1862336674 	
+	[WOTC] Faceoff Ammo Fix                                             	FaceoffAmmoFixWOTC                   	1136729138 	
+	Custom Soldiers Evac Zone Fix                                       	AlliesUnknownEvacZoneFix             	1124713229 	
+	[WOTC] Less Overwatch Lock Ups!                                     	OverwatchLockupFix                   	1276342555 	
+	[WotC] Better Grappling!                                            	GrappleFix                           	1486607466 	
+	[WotC] Weapon Fixes                                                 	WepUpgradeFix                        	1737532501 	
+	Perk Psi Cloud The Mind Bug Fix                                     	PerkPsiCloudTheMindBugFix            	1757199738 	
+	Skulljack Feedback Fix                                              	SkulljackFeedbackFix                 	636893854  	
+	[WOTC] Debug Items Fix                                              	DebugItemsFixWOTC                    	1140202295 	
+	[TLP] Peter's Grenades (and other TLP Fixes)                        	PeterOseiGrenade                     	1537820510 	
+	Ammo Pocket Fix                                                     	AmmoPocketFix                        	727666654  	
+	Missing Packages Fix - Parcels and Maps Edition                     	MissingPackagesFix_ParcelsMaps       	1140305914 	
+	Avenger Defense Bondmates Fix                                       	BondmatesSpawnFix                    	1176368634 	
+	Tower Detection Fix [WOTC]                                          	TowerDetectionFixWOTC                	1437605946 	
+	[WOTC Only] Move End Interrupt Fix                                  	MoveEndInterruptFix                  	1440562199 	
+	[WotC+Classic] Reliable Smoke                                       	SmokeStopsFlanks                     	650751923  	
+	Configurable Protect Device                                         	ConfigurableProtectDevice            	634951246  	
+	[WOTC] Surgical SitRep Fix                                          	SurgicalSitRepFix                    	1319707742 	
+	Unblockable Flamethrowers                                           	LWStyleFlamethrowers                 	1157010936 	
+	[WOTC] Loot Mind Control                                            	LootMindControlWOTC                  	1130134672 	
+	(WOTC) Zombies Don't Count                                          	ZombiesDontCountWOTC                 	1256370393 	
+	Reward Decks Refresher                                              	RewardDecksRefresher                 	665435869  	
+	Chosen Dark Events Fix                                              	ChosenDarkEventsFix                  	1126771111 	
+	[WotC] RW Fixed MidCampaign Language Changing                       	RWFixedMidCampaignLanguageChanging   	883407133  	
+	Device DoT Fix                                                      	DeviceDoTFix                         	1285056268 	
+	Whiplash Aim "Fix"                                                  	MZWhiplashAimFix                     	1779471721 	
+	[WOTC] Ability Interaction Fixes                                    	AWCCostFixW                          	1129878719 	
+	Hunker Down Flanking Fix WOTC                                       	HunkerDownFlankingFixWOTC            	1878647436 	
+	[WOTC] Carry Unit Fix                                               	WotCCarryUnitFix                     	1378606631 	
+	[WOTC] Death From Above Fix                                         	DeathFromAboveFix                    	1759345364 	
+	AWC Squadsight Fix                                                  	AWCSquadsightFix                     	638229956  	
+	Ever Vigilant Bugfixes WOTC                                         	EverVigilantBugfixes                 	1149340002 	
+	Spectre Vanish Fix                                                  	SpectreVanishFix                     	1373960922 	
+	[WOTC] Grim Horizon Fix                                             	GrimHorizonFix                       	2078307522 	
+	[WOTC] Reliable Ever Vigilant                                       	WOTC_ReliableEverVigilant            	2071833199 	
+	Insider Knowledge Fix                                               	StocksInsiderKnowledgeFix            	1124909099 	
+	[WotC] Resistance Warrior Fix                                       	ResistanceWarriorFix                 	1994897410 	
+	[WOTC] Skulljack Mind-Controlled Enemies                            	WOTC_SkulljackMindControlledEnemies  	2230952627 	
+	[WOTC] R.A.G.E. Armor Tech Fix                                      	WOTC_RAGEArmorTechFix                	2235945732 	
+	[WOTC] Shredstorm Cannon Build Fix                                  	WOTC_ShredstormCannonBuildFix        	2257652871 	
+	[WOTC] Fairer Fights                                                	FairerFights                         	1514410627 	
+	Anti Relay Cheese [WOTC]                                            	AntiRelayCheese                      	1168960334 	
+	[WOTC] Robotic Spectre                                              	RoboticSpectre                       	1431740015 	
+	Stop Suppressing The Lost AI Fix                                    	StopSuppressingMeleeFix              	1147263004 	
+	[WOTC] More Psionic Units                                           	MorePsionicUnits                     	1489268865 	
+	[WOTC] Chosen Weaponry Fix                                          	ChosenWeaponryFix                    	1484778143 	
+	[WOTC] Plasma Grenade Icon Fix                                      	WOTC_PlasmaGrenadeIconFix            	2274949921 	
+	[WOTC] Incendiary Grenade Damage Fix +                              	WOTC_IncendiaryGrenadeDamageFixPlus  	2275392196 	
+
+Character Pool (2):
+	Gender Bias - WotC                                                  	GenderBias_WotC                      	1163324651 	
+	Gender Bias                                                         	GenderBias                           	624570834  	
+
+Base (2):
+	[WotC] Mod Config Menu                                              	ModConfigMenu                        	667104300  	
+	[BETA] X2WOTCCommunityHighlander                                    	X2WOTCCommunityHighlander            	1796402257 	
+
+Limbs (2):
+	Arms and Shoulders                                                  	ArmsShoulders                        	1092571334 	
+	[WOTC] Invisible Parts For Hero Units                               	InvisibleHeroUnitsBodyParts          	1125697296 	
+
+Tactical (2):
+	[WOTC] EU Aim Rolls                                                 	EUAimRollsWOTC                       	1123516056 	
+	[WOTC] Don't Pull That Trigger                                      	DontPullTheTrigger                   	2012323571 	
+
+Maps (1):
+	Map Expansion UPk                                                   	MapExpansionUPk                      	1637404109 	
+
+Sound (5):
+	Narrative Control                                                   	NarrativeControl                     	1334298434 	
+	[WOTC] No Enemy Intro                                               	NoEnemyIntro                         	1872929750 	
+	Chosen Dialogue Tweaks                                              	AssassinShotgunLines                 	1278642731 	
+	Dropship Propaganda Variety                                         	DropshipPropagandaVariety            	1437618071 	
+	(WOTC+TLP) TLP Attitude Voice Fix                                   	GiveNewAttitudesPersonality          	1547952490 	
+
+Weapon Slots (1):
+	[WOTC] TLP Conventional Weapons with Visual Attachments REDUX       	WOTC_TLP_V_Weapons                   	1726550197 	
+
+Skyranger (4):
+	SkyrangerSkins_RPL                                                  	SkyrangerSkins_RPL                   	1371109165 	
+	Customizable Skyranger                                              	CustomizableSkyranger                	1269702146 	
+	Skyranger Skins Decal Pack                                          	SkyrangerSkinsDecalPack              	1346085718 	
+	WotC: Skyranger Skins                                               	WotC_SkyrangerSkins                  	1346067153 	
+
+Weapon Skins (5):
+	[WOTC] WSR Weapon Skin Replacer - Configuration                     	zzzWeaponSkinReplacerConfig          	1709345052 	
+	[WOTC] WSR Weapon Skin Replacer - Core                              	zzzWeaponSkinReplacer                	1517938486 	
+	[WOTC] TLP Plasma Weapons With Visual Attachments REDUX             	WOTC_TLP_3_Weapons                   	1750855914 	
+	[WOTC] TLP Magnetic Weapons With Visual Attachments REDUX           	WOTC_TLP_V_2_Weapons                 	2058741060 	
+	[WOTC] [FIXED] Clean TLE Weapons With Tiered Upgrades               	WOTC_TLP_Fudge                       	1898540490 	
+
+Character Customisation (21):
+	More skin colors                                                    	Moreskincolors                       	629368512  	
+	Longer Names V2                                                     	LongerNamesV2                        	715700207  	
+	Faction Flags                                                       	FactionFlags                         	1255028038 	
+	Unrestricted Customization - Wotc                                   	UnrestrictedCustomization            	1135440846 	
+	More Nations and Names WotC                                         	MoreNationsandNamesWotC              	1124284135 	
+	Full Character Customization From Start                             	FullCharacterCustomizationFromStart  	620530611  	
+	Add Part Names                                                      	AddedPartNames                       	878158600  	
+	Birthdates [WOTC]                                                   	BirthdatesWOTC                       	1144073441 	
+	SIGINT Soldier Nicknames WotC                                       	SIGINTSoldierNicknamesWotC           	1153123622 	
+	Hyperdimension Neptunia Nations                                     	HyperdimensionNeptuniaNationsMOD     	823213294  	
+	Game of Thrones - Westeros and Essos Flags                          	WesterosandEssosFlags                	1120046007 	
+	EmptyNames [WOTC]                                                   	EmptyNamesWOTC                       	1143991863 	
+	[WotC] Destiny Factions                                             	DestinyFactions                      	2254401490 	
+	[WotC] EU Nationality                                               	EUNationality                        	2254383998 	
+	[WotC] Halo Factions                                                	HaloFactions                         	2254372182 	
+	Destiny Factions 2                                                  	DestinyFactions2                     	1893006051 	
+	LGBTQ+ Pride Flags                                                  	LGBTQFlagsMod                        	2265150395 	
+	Disable Old World Hero                                              	DisableOldWorldHero                  	2220173789 	
+	WotC Yakuza Flags                                                   	WotCYakuzaFlags                      	2280979286 	
+	EXALT Insignia                                                      	EXALTInsignia                        	620502401  	
+	ADVENT Insignia                                                     	ADVENTInsignia                       	621524082  	
+
+Soldier Abilities (3):
+	Suppression Restrictions WOTC + TLP                                 	SuppressionRestrictionsWOTC          	1130975635 	
+	Quickdraw Sensitivity                                               	QuickdrawSensitivity                 	1267996790 	
+	[WOTC] Free Reload Anytime                                          	FreeReloadAnytimeWOTC                	1124843260 	
+
+Heavy Weapons (1):
+	[WOTC] Sell Heavy Weapons                                           	SellHeavyWeapons                     	1473750434 	
+
+Soldier Effects (3):
+	[WOTC] Electrical Damage Consistency                                	ConsistentElectricalDamage           	1396894338 	
+	[WOTC] Stabilize Me                                                 	WotC_StabilizeMe                     	1380625450 	
+	[WOTC] Critical Skirmishing                                         	CriticalSkirmishing                  	1393922219 	
+
+Armour Customisation (6):
+	[WOTC] GrimStyle Armor                                              	GrimStyleArmorWOTC                   	1128848767 	
+	Calmer Colors - Armor (WoTC Compatible)                             	CalmerColors-Armor                   	868218230  	
+	More armor colors                                                   	Morearmorcolors                      	629604401  	
+	[WOTC] Alien Armor Customization by Iridar                          	AlienArmorCustomization              	1595591864 	
+	Modular Legacy Armors                                               	ModularLegacyArmors                  	1548555002 	
+	Military Style Torso Decos                                          	MilitaryStyleDecos                   	1784940385 	
+
+Spark (2):
+	One Million Spark Colours                                           	OneMillionSparkColours               	1134598754 	
+	[WOTC] SPARK Repair Fix                                             	SPARKRepairFix                       	1440747908 	
+
