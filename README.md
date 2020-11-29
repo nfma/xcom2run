@@ -1,8 +1,11 @@
 # xcom2 run to glory
 
-- no squad upgrades, mimic beacons, repeaters or psionics. Soldiers cannot die in battle, all missions must be successful and the chosen must always be defeated in battle when it shows up (and later purged from their stronghold).
-
-- only cosmetic, bug fixes, qol or visual mods allowed. some tactical mods that make the game more difficult also allowed.
+- No squad upgrades, mimic beacons, repeaters or psionics.
+- Soldiers cannot die
+- All missions must be successful (flawless or excellent)
+- The chosen must always be defeated in battle when it shows up (and later purged from their stronghold).
+- only cosmetic, bug fixes, qol or visual mods allowed.
+- Some tactical mods that make the game more difficult also allowed.
 
 # Attempt 1
 
