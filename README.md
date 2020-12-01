@@ -9,8 +9,8 @@
 
 #
 
-| attempt | mission | month  | FL  | type | result | difficulty | sitrep | rewards | kills | chosen | wounded | dead | &nbsp;&nbsp;&nbsp;&nbsp;explanation&nbsp;&nbsp;&nbsp;&nbsp; | learnings |
-|   :-:   |   :-:   | :----: | :-: | :--- | ------ | ---------- | ------ | ------- | :---: | ------ | :-----: | :--: | ----------- | --------- |
+| attempt | mission | month  | FL  | type | result | difficulty | sitrep | rewards | kills | chosen | wounded | dead | explanation | learnings |
+|   :-:   |   :-:   | :----: | :-: | :--- | ------ | ---------- | ------ | ------- | :---: | ------ | :-----: | :--: | --------------------- | --------- |
 | 4 | 1  | Mar 2035 | 1 | gatecrasher | flawless | easy | - | - | 9 | - | - | - | - | - |
 |   | 2  |          |   | recover item | excellent | easy | - | engineer | 9 | - | 1 | - | forgot that interactions with the objective activate nearby pods | dont interact with objectives unless ready to take on a pod |
 |   | 3  |          |   | rescue stranded agents | excellent | easy | the horde | scientist + intel + sharpshooter | 205 | - | 1 | - | dasher hidden inside a container attacked a soldier that came down the ladder to move to evac point | not much as it's not possible to reliably keep track of all the lost that are out of LOS |
