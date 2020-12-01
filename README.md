@@ -9,7 +9,7 @@
 
 #
 
-| attempt | mission | month  | FL  | type | result | difficulty | sitrep | rewards | kills | chosen | wounded | dead | explanation | learnings |
+| attempt | mission | month  | FL  | type | result | difficulty | sitrep | rewards | kills | chosen | wounded | dead | &nbsp;&nbsp;&nbsp;&nbsp;explanation&nbsp;&nbsp;&nbsp;&nbsp; | learnings |
 |   :-:   |   :-:   | :----: | :-: | :--- | ------ | ---------- | ------ | ------- | :---: | ------ | :-----: | :--: | ----------- | --------- |
 | 4 | 1  | Mar 2035 | 1 | gatecrasher | flawless | easy | - | - | 9 | - | - | - | - | - |
 |   | 2  |          |   | recover item | excellent | easy | - | engineer | 9 | - | 1 | - | forgot that interactions with the objective activate nearby pods | dont interact with objectives unless ready to take on a pod |
