@@ -131,7 +131,7 @@ Strategy (2):
 	More Cities WotC                                                    	MoreCitiesWotC                       	1131405167 	
 	DLC Breakthroughs Support                                           	SPARKWeaponBreakthroughs             	1133948306 	
 
-Bug (51):
+Bug (52):
 	Defense Matrix Sabotage Fix                                         	SabotageFix                          	1135867452 	
 	[WotC] Revival Protocol Fixes                                       	RevivalProtocolFixes                 	1123037187 	
 	Missing Packages Fix + Resource                                     	Missing_FX_Package_Resource          	1124064427 	
@@ -183,6 +183,7 @@ Bug (51):
 	[WOTC] Chosen Weaponry Fix                                          	ChosenWeaponryFix                    	1484778143 	
 	[WOTC] Plasma Grenade Icon Fix                                      	WOTC_PlasmaGrenadeIconFix            	2274949921 	
 	[WOTC] Incendiary Grenade Damage Fix +                              	WOTC_IncendiaryGrenadeDamageFixPlus  	2275392196 	
+	[WOTC] Sniper Defense Fix                                           	SniperDefense                        	1502740820 	
 
 Character Pool (2):
 	Gender Bias - WotC                                                  	GenderBias_WotC                      	1163324651 	
