@@ -10,13 +10,45 @@
 #
 
 | attempt | mission | month  | FL  | type | result | difficulty | sitrep | rewards | kills | chosen | wounded | dead | explanation | learnings |
-|   :-:   |   :-:   | :----: | :-: | :--- | ------ | ---------- | ------ | ------- | :---: | ------ | :-----: | :--: | --------------------- | --------- |
+|   :-:   |   :-:   | :----: | :-: | :--- | ------ | ---------- | ------ | ------- | :---: | ------ | :-----: | :--: | ----------- | --------- |
+| 7 | 1  | Mar 2035 | 1 | gatecrasher | failed | easy | - | - | - | - | 1 | - | 3 shots, 2 min damage and one miss... what can i say... | - |
+|   |    |          |   | gatecrasher | failed | easy | - | - | - | - | 1 | - | Not sure how to break out of this rng seed | - |
+|   |    |          |   | gatecrasher | failed | easy | - | - | - | - | 1 | - | Might need to abandon this campaign altogether | - |
+|   |    |          |   | gatecrasher | failed | easy | - | - | - | - | 1 | - | Nothing to add, still trying to get out of this crazy seed | - |
+|   |    |          |   | gatecrasher | failed | easy | - | - | - | - | 1 | - | Finally worked but stupid LOS, with a thin lamp allowed a trooper to flank, shoot and hit | - |
+|   |    |          |   | gatecrasher | failed | easy | - | - | - | - | 1 | - | had to activate two pods, got hit with the last trooper | - |
+|   |    |          |   | gatecrasher | flawless | easy | - | - | 8 | - | - | - | - | - |
+|   | 2  |          |   | hack resistance computer | excellent | easy | the lost | engineer | 32 | - | 2 | - | hidden lost are a pain in the butt and i thought i had cleaned up the map and there was another pod left which hit my grenadier | - |
+|   | 3  |          |   | gather survivors | - | easy | the lost | scientist + intel + 2 sharpshooters | - | - | - | - | after losing concielment to what looked like a bug. the rooker with the flashbang panicked after sectoid psy and threw the grenade away. just later to be mind controlled by another sectoid and kill a team mate with a 45% shot. | I put the guy on low cover to kill a trooper which on hindsight could have been killed probably later |
+
+#
+
+| attempt | mission | month  | FL  | type | result | difficulty | sitrep | rewards | kills | chosen | wounded | dead | explanation | learnings |
+|   :-:   |   :-:   | :----: | :-: | :--- | ------ | ---------- | ------ | ------- | :---: | ------ | :-----: | :--: | ----------- | --------- |
+| 6 | 1  | Mar 2035 | 1 | gatecrasher | flawless | easy | - | - | 8 | - | - | - | - | - |
+|   | 2  |          |   | sabotage transmitter | failed | easy | - | engineer | - | - | - | 1 | had to activate two pods, put my grenadier in a flankable position to be able to flashbang a sectoid that had mind controlled my templar, unlucky not to catch both sectoids which would have prevented all the damage to the grenadier | - |
+
+
+#
+
+| attempt | mission | month  | FL  | type | result | difficulty | sitrep | rewards | kills | chosen | wounded | dead | explanation | learnings |
+|   :-:   |   :-:   | :----: | :-: | :--- | ------ | ---------- | ------ | ------- | :---: | ------ | :-----: | :--: | ----------- | --------- |
+| 5 | 1  | Mar 2035 | 1 | gatecrasher | failed | easy | - | - | - | - | 1 | - | missed an 86% on a flanked officer to get hit by the last trooper. the first 45% shot almost never fails. freaking bad luck. | - |
+|   |    |          |   | gatecrasher | failed | easy | - | - | - | - | 1 | - | two min damaged rolled on ambush, the remaining trooper shot one of my soldier for 45%. | - |
+|   |    |          |   | gatecrasher | flawless | easy | - | - | 9 | - | - | - | - | - |
+|   | 2  |          |   | destroy alien relay | - | easy | - | engineer | - | - | 3 | - | the car explosion on the fuel pump exploded a lot more than i expected and left my templar bleeding out | more careful on the fuel pump because parts that are not expected to explode will explode |
+
+#
+
+| attempt | mission | month  | FL  | type | result | difficulty | sitrep | rewards | kills | chosen | wounded | dead | explanation | learnings |
+|   :-:   |   :-:   | :----: | :-: | :--- | ------ | ---------- | ------ | ------- | :---: | ------ | :-----: | :--: | ----------- | --------- |
 | 4 | 1  | Mar 2035 | 1 | gatecrasher | flawless | easy | - | - | 9 | - | - | - | - | - |
 |   | 2  |          |   | recover item | excellent | easy | - | engineer | 9 | - | 1 | - | forgot that interactions with the objective activate nearby pods | dont interact with objectives unless ready to take on a pod |
 |   | 3  |          |   | rescue stranded agents | excellent | easy | the horde | scientist + intel + sharpshooter | 205 | - | 1 | - | dasher hidden inside a container attacked a soldier that came down the ladder to move to evac point | not much as it's not possible to reliably keep track of all the lost that are out of LOS |
 |   | 4  |          | 2 | retaliation | excellent | easy | - | loot + increased regional income | 9 | assassin | 1 | - | unvoidable hit from the assassin, even when we've spotted her ahead but she's got agile as well which makes her really painful to kill | - |
 |   | 5  |          |   | protect the device | excellent | easy | - | intel + counter rural checkpoints | 8 | - | 1 | - | embush botched because there was a trooper that was not visible, sectoid soaked all the shots, trooper shot against full cover and hit | - |
-|   | 6  | Apr 2035 | 3 | extract supplies | - | medium | - | loot | - | - | - | - | - | - |
+|   | 6  | Apr 2035 | 3 | extract supplies | excellent | medium | - | loot | 9 | - | 1 | - | hit by a 25% shot of a stun lancer | - |
+|   | 7  |          |   | recover resistance operative | failed | medium | - | intel + engineer | - | - | - | 1 | I risked meleeing a trooper, activated a pod, got stunned by a lancer and then shot from above by an officer whilst behind high cover | The trade off i'm making between killing someone and risking activating a pod is not working out. need to be more conservative |
 
 #
 
