@@ -77,6 +77,7 @@ QOL (75):
 	WC_INFormApps                                                       	WC_INFormApps                        	1136937041 	
 	[WOTC] More Target Icons 2020                                       	WOTC_2020TargetIcons                 	2010827399 	
 	Evac Now                                                            	EvacNow                              	1306820727 	
+	Tactical Information Overhaul [WOTC]                                	TacticalStatOverhaul                 	1630804593 	
 	No Drop-down Lists                                                  	LEBDropDownReplacement               	865667559  	
 	Show More Buff Details                                              	ShowMoreBuffDetails                  	709499969  	
 	[WOTC] Unlimited Ability Icons                                      	UnlimitedAbilityIconsWOTC            	1374808007 	
@@ -124,8 +125,7 @@ QOL (75):
 	[WOTC] Standardised Resources Bar                                   	WOTC_StandardisedResourcesBar        	2276175904 	
 	Free Camera Rotation                                                	FreeCameraRotation                   	616359783  	
 	Enhanced action camera                                              	Moreactioncamera                     	1139448360 	
-	[WOTC] Color Your PG Tech                                           	WOTC_ColorYourTech                   	2293559450 	
-	[WOTC] Unit Flag Extended                                           	WOTCLootIndicator_Extended           	2285967646 	
+	[WOTC] Color Your Techs                                             	WOTC_ColorYourTech                   	2293559450 	
 
 Strategy (2):
 	More Cities WotC                                                    	MoreCitiesWotC                       	1131405167 	
@@ -248,6 +248,12 @@ Character Customisation (21):
 	WotC Yakuza Flags                                                   	WotCYakuzaFlags                      	2280979286 	
 	EXALT Insignia                                                      	EXALTInsignia                        	620502401  	
 	ADVENT Insignia                                                     	ADVENTInsignia                       	621524082  	
+
+Enemy Abilities (4):
+	Chosen No Forced Bleedout Tweak                                     	ChosenUnforcedBleedoutTweak          	1151467876 	
+	Assassin's  Swordsmanship improvement                               	AssassinBladestorm                   	1141401487 	
+	Restored Chosen Traits                                              	RestoredChosenTraits                 	1133896546 	
+	Additional Enemy Perks                                              	AdditionalEnemyPerks                 	1140770689 	
 
 Soldier Abilities (3):
 	Suppression Restrictions WOTC + TLP                                 	SuppressionRestrictionsWOTC          	1130975635 	
